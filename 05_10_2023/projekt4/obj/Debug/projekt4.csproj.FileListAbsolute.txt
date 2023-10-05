@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\05_10_2023\projekt4\bin\Debug\projekt4.exe.config
+C:\Users\student\Desktop\05_10_2023\projekt4\bin\Debug\projekt4.exe
+C:\Users\student\Desktop\05_10_2023\projekt4\bin\Debug\projekt4.pdb
+C:\Users\student\Desktop\05_10_2023\projekt4\obj\Debug\projekt4.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\05_10_2023\projekt4\obj\Debug\projekt4.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\05_10_2023\projekt4\obj\Debug\projekt4.exe
+C:\Users\student\Desktop\05_10_2023\projekt4\obj\Debug\projekt4.pdb
