@@ -1,0 +1,15 @@
+C:\Users\student\3D Objects\projekt_8_1\obj\Debug\net6.0\projekt_8_1.csproj.AssemblyReference.cache
+C:\Users\student\3D Objects\projekt_8_1\obj\Debug\net6.0\projekt_8_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\3D Objects\projekt_8_1\obj\Debug\net6.0\projekt_8_1.AssemblyInfoInputs.cache
+C:\Users\student\3D Objects\projekt_8_1\obj\Debug\net6.0\projekt_8_1.AssemblyInfo.cs
+C:\Users\student\3D Objects\projekt_8_1\obj\Debug\net6.0\projekt_8_1.csproj.CoreCompileInputs.cache
+C:\Users\student\3D Objects\projekt_8_1\bin\Debug\net6.0\projekt_8_1.exe
+C:\Users\student\3D Objects\projekt_8_1\bin\Debug\net6.0\projekt_8_1.deps.json
+C:\Users\student\3D Objects\projekt_8_1\bin\Debug\net6.0\projekt_8_1.runtimeconfig.json
+C:\Users\student\3D Objects\projekt_8_1\bin\Debug\net6.0\projekt_8_1.dll
+C:\Users\student\3D Objects\projekt_8_1\bin\Debug\net6.0\projekt_8_1.pdb
+C:\Users\student\3D Objects\projekt_8_1\obj\Debug\net6.0\projekt_8_1.dll
+C:\Users\student\3D Objects\projekt_8_1\obj\Debug\net6.0\refint\projekt_8_1.dll
+C:\Users\student\3D Objects\projekt_8_1\obj\Debug\net6.0\projekt_8_1.pdb
+C:\Users\student\3D Objects\projekt_8_1\obj\Debug\net6.0\projekt_8_1.genruntimeconfig.cache
+C:\Users\student\3D Objects\projekt_8_1\obj\Debug\net6.0\ref\projekt_8_1.dll
