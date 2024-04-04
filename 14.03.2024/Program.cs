@@ -75,18 +75,70 @@ namespace _14._03._2024
         }
 
         private static void AddNewAnimal(List<Animal> animals)
-        {
-            throw new NotImplementedException();
-        }
+    {
+      Console.Clear();
 
-        private static void ShowAnimalList(List<Animal> animals)
+      Console.Write("Podaj nazwę zwierzęcia:");
+      string name = Console.ReadLine();
+      Console.Write("Podaj datę urodzenia zwierzęcia (w formacie RRRR-MM-DD):");
+      DateTime birthDate = DateTime.Parse(Console.ReadLine());
+      Console.Write("Czy zwierzę jest ssakiem? (tak / nie):");
+      bool isMammal = Console.ReadLine().ToLower() == "tak"; //true/false
+      Console.Write("Podaj rodzaj zwierzęcia (Ptak, Ryba, Gad, Płaz, Ssak):");
+      Kind kind = (Kind)Enum.Parse(typeof(Kind), Console.ReadLine());
+
+      Animal animal = new Animal(name, birthDate, isMammal, kind);
+
+      animals.Add(animal);
+
+      Console.WriteLine("\nDodano nowe zwierzę: " + animal.Name);
+      Console.WriteLine("Wciśnij dowolny klawisz, aby wrócić do menu głównego\n");
+      Console.ReadKey();
+      showMainMenu(animals);
+
+    }
+
+    private static void ShowAnimalsList(List<Animal> animals)
+    {
+      Console.Clear();
+      if (animals.Count == 0)
+      {
+        Console.WriteLine("Nie ma żadnych zwierząt na liście");
+      }
+      else
+      {
+        Console.WriteLine("Lista zwierząt:");
+        for (int i = 0; i < animals.Count; i++)
         {
-            throw new NotImplementedException();
+          Console.WriteLine((i + 1) + ". " + animals[i].Name);
         }
+      }
+      Console.WriteLine("\nWciśnij dowolny klawisz, aby wrócić do menu głównego\n");
+      Console.ReadKey();
+      showMainMenu(animals);
+    }
 
         private static void ShowAnimalDetails(List<Animal> animals)
         {
-            throw new NotImplementedException();
+            Console.Clear();
+            if(animals.Count == 0)
+            {
+                Console.WriteLine("nie ma żadnych zwierząt na liście");
+            }
+            else
+            {
+                 Console.WriteLine("Lista zwierząt:");
+                for (int i = 0; i < animals.Count; i++)
+                {
+                  Console.WriteLine((i + 1) + ". " + animals[i].Name);
+                }
+            }
+            Console.Write("Podaj nr zwierzęcia, którego szczegóły chcesz zobaczyć: ")
+                int index = int.Parse(Console.ReadLine() - 1);
+            if(index >= 0 && index < animals.Count)
+            {
+                
+            }
         }
 
         private static void RemoveAnimal(List<Animal> animals)
