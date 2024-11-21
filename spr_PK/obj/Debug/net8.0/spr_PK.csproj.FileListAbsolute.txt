@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\spr_PK\bin\Debug\net8.0\spr_PK.exe
+C:\Users\student\Desktop\spr_PK\bin\Debug\net8.0\spr_PK.deps.json
+C:\Users\student\Desktop\spr_PK\bin\Debug\net8.0\spr_PK.runtimeconfig.json
+C:\Users\student\Desktop\spr_PK\bin\Debug\net8.0\spr_PK.dll
+C:\Users\student\Desktop\spr_PK\bin\Debug\net8.0\spr_PK.pdb
+C:\Users\student\Desktop\spr_PK\obj\Debug\net8.0\spr_PK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\spr_PK\obj\Debug\net8.0\spr_PK.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\spr_PK\obj\Debug\net8.0\spr_PK.AssemblyInfo.cs
+C:\Users\student\Desktop\spr_PK\obj\Debug\net8.0\spr_PK.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\spr_PK\obj\Debug\net8.0\spr_PK.dll
+C:\Users\student\Desktop\spr_PK\obj\Debug\net8.0\refint\spr_PK.dll
+C:\Users\student\Desktop\spr_PK\obj\Debug\net8.0\spr_PK.pdb
+C:\Users\student\Desktop\spr_PK\obj\Debug\net8.0\spr_PK.genruntimeconfig.cache
+C:\Users\student\Desktop\spr_PK\obj\Debug\net8.0\ref\spr_PK.dll
