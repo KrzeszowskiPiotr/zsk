@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "4W2DOvhdqXU=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\student\\Desktop\\delegaty_powiadomienia_menu\\delegaty_powiadomienia_menu.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Nie można znaleźć pakietu Microsoft.VisualStudio.Azure.Containers.Tools.Targets. W źródłach nie istnieją pakiety z tym identyfikatorem: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "delegaty_powiadomienia_menu": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
