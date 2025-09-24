@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\user\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(11,17): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\user\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(17,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  ConsoleApplication1.vcxproj -> C:\Users\user\Desktop\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
